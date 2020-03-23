@@ -5,5 +5,5 @@ CREATE TABLE todo(
   description VARCHAR(255),
 );
 
-INSERT INTO todo (description) 
-VALUES('hello there');
+-- INSERT INTO todo (description) 
+-- VALUES('hello there');
